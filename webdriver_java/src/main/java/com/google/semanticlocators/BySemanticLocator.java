@@ -1,3 +1,4 @@
+// edit java source
 package com.google.semanticlocators;
 
 import static java.lang.String.format;
