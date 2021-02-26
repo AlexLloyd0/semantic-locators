@@ -4,6 +4,7 @@ import com.google.common.collect.ImmutableMap;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
+// Edit WebDrivers.java
 
 /**
  * Provides WebDriver instances to the test. This constant is kept in a separate class so internal +
