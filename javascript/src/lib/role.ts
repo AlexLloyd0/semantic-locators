@@ -8,7 +8,7 @@ import {AriaRole, CHILDREN_PRESENTATIONAL, IGNORED_ROLES, IMPLICIT_ROLES_FOR_TAG
 import {hasDataInColumn, hasDataInRow} from './table';
 import {Condition, ConditionType} from './types';
 import {checkExhaustive, compareNodeOrder} from './util';
-
+// Edit ts normal file
 /**
  * Return, in document order, a list of elements below the contextNode which
  * have the given role.

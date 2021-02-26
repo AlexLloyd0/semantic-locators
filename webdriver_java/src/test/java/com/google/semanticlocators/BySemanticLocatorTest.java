@@ -1,3 +1,4 @@
+// Edit java test
 package com.google.semanticlocators;
 
 import static com.google.common.truth.Truth.assertThat;
